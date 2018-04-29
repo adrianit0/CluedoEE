@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5efee304ed2651046aafdd2c8e20cd24, type: 3}
+  m_Name: Lista del cluedo
+  m_EditorClassIdentifier: 
+  tarjetas:
+  - nombreTarjeta: "Se\xF1orita Amapola"
+    ID: 0
+    tipo: 0
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Coronel Rubio
+    ID: 0
+    tipo: 0
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: "Se\xF1ora Blanco"
+    ID: 0
+    tipo: 0
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Padre Prado
+    ID: 0
+    tipo: 0
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: "Se\xF1ora Celeste"
+    ID: 0
+    tipo: 0
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Profesor Mora
+    ID: 0
+    tipo: 0
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Doctor Moreno
+    ID: 0
+    tipo: 0
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: "Se\xF1ora Pastora"
+    ID: 0
+    tipo: 0
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Entrada
+    ID: 0
+    tipo: 1
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Mirador
+    ID: 0
+    tipo: 1
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Biblioteca
+    ID: 0
+    tipo: 1
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Estudio
+    ID: 0
+    tipo: 1
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: "Sal\xF3n"
+    ID: 0
+    tipo: 1
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Comedor
+    ID: 0
+    tipo: 1
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Cocina
+    ID: 0
+    tipo: 1
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Sala de baile
+    ID: 0
+    tipo: 1
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Porra
+    ID: 0
+    tipo: 2
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Candelabro
+    ID: 0
+    tipo: 2
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Raqueta
+    ID: 0
+    tipo: 2
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Pistola
+    ID: 0
+    tipo: 2
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: "Pu\xF1al"
+    ID: 0
+    tipo: 2
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Cuerda
+    ID: 0
+    tipo: 2
+    genero: 1
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Martillo
+    ID: 0
+    tipo: 2
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
+  - nombreTarjeta: Hacha
+    ID: 0
+    tipo: 2
+    genero: 0
+    descripcion: 
+    spriteTarjeta: {fileID: 0}
